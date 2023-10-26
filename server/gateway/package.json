@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@apollo/gateway": "^2.5.6",
+    "apollo-server": "^3.12.1"
+  }
+}
